@@ -1,0 +1,27 @@
+# 👋 Hi, I'm Juice!
+
+🎓 **Student** passionate about technology, creativity, and open source.
+
+## 🛠️ Skills & Tools
+- **Bash** scripting
+- **HTML & CSS** for web projects
+
+## 🌟 Favorite Project
+- [Linux](https://github.com/torvalds/linux)  
+  *Inspired by the heart of open source, I love learning from and contributing to the legendary Linux project.*
+
+## 🚀 Top Repositories
+- [HellasNOC](https://github.com/Its-Juice/hellasnoc)
+- [GNOME Extensions](https://github.com/Its-Juice/gnome-extensions)
+- [Custom Accent Colors](https://github.com/Its-Juice/custom-accent-colors)
+
+## 🎸 Interests
+- Open source collaboration
+- Music & fingerstyle guitar
+- Gaming
+
+---
+
+> “Code, create, and play — every day.”
+
+Feel free to connect or check out my projects!
