@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Juice!
+# 👋 Hi, I'm Giannis!
 
 🎓 **Student** passionate about technology, creativity, and open source.
 
