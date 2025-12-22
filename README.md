@@ -5,15 +5,15 @@
 ## 🛠️ Skills & Tools
 - **Bash** scripting
 - **HTML & CSS** for web projects
+- **Flutter & Dart** for mobile aplications
 
 ## 🌟 Favorite Project
 - [Linux](https://github.com/torvalds/linux)  
   *Inspired by the heart of open source, I love learning from and contributing to the legendary Linux project.*
 
 ## 🚀 Top Repositories
+- [PennyPilot](https://github.com/Its-Juice/PennyPilot)
 - [Backplane](https://github.com/Its-Juice/backplane-website)
-- [GNOME Extensions](https://github.com/Its-Juice/gnome-extensions)
-- [Custom Accent Colors](https://github.com/Its-Juice/custom-accent-colors)
 
 ## 🎸 Interests
 - Open source collaboration
