@@ -1,84 +1,82 @@
 <div align="center">
-  
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExODdiNTI0YjI5YjI5YjI5YjI5YjI5YjI5YjI5YjI5YjI5YiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/L1R1TVThqceK6M8dzD/giphy.gif" width="100" />
 
-  # 👋 Hi, I'm Giannis!
-  
-  ### 🎓 Student | 💻 Tech Enthusiast | 🎸 Musician
-  
-  *"Code, create, and play — every day."*
+  <h1>👋 Hi, I'm Giannis!</h1>
+  <h3>Future Software Engineer | Open Source Contributor | Minimalist</h3>
 
-  ---
-
-  <a href="https://github.com/Its-Juice">
-    <img src="https://komarev.com/ghpvc/?username=Its-Juice&style=flat-square&color=blueviolet&label=Profile+Views" alt="Profile Views" />
-  </a>
-  <a href="https://github.com/Its-Juice?tab=followers">
-    <img src="https://img.shields.io/github/followers/Its-Juice?logo=github&style=flat-square&color=blueviolet" alt="Followers" />
-  </a>
+  <p>
+    <a href="https://github.com/Its-Juice">
+      <img src="https://komarev.com/ghpvc/?username=Its-Juice&style=for-the-badge&color=212121&label=VIEWS" alt="Profile Views" />
+    </a>
+  </p>
 
 </div>
 
-<br/>
+---
 
-## 🛠️ Tech Stack & Skills
+### 🏆 Achievements
 
 <div align="center">
-  <img src="https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-  <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" alt="Flutter" />
-  <img src="https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=Its-Juice&theme=git_dark&margin-w=15&margin-h=15&no-bg=true&column=7" alt="Its-Juice Trophies" />
+  </a>
+</div>
+
+### � Coding Activity
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Its-Juice&theme=tokyo-night&bg_color=1a1b27&hide_border=true&area=true" alt="Its-Juice Activity Graph" />
 </div>
 
 <br/>
-
-## 📊 GitHub Stats
 
 <div align="center">
   <a href="https://github.com/Its-Juice">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Its-Juice&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1a1b27&hide_border=true&include_all_commits=true" alt="Giannis's GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=Its-Juice&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=1a1b27" height="180" alt="GitHub Stats" />
   </a>
   <a href="https://github.com/Its-Juice">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Its-Juice&hide=javascript,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1a1b27&hide_border=true&layout=compact" alt="Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Its-Juice&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&hide=html,css" height="180" alt="Top Languages" />
   </a>
 </div>
+
 <br/>
+
+### 🛠️ Tech Stack
+
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Its-Juice&theme=nightowl&hide_border=true" alt="GitHub Streak" />
+  <img src="https://skillicons.dev/icons?i=bash,linux,dart,flutter,md,git,vscode,github&theme=dark" alt="Tech Stack" />
 </div>
 
 <br/>
 
-## 🚀 Top Repositories
+### 🚀 Featured Projects
 
-<table align="center" border="0" cellpadding="10">
+<table align="center" border="0" cellpadding="10" cellspacing="0">
   <tr>
-    <td align="center" width="33%">
+    <td width="50%" align="center">
       <a href="https://github.com/Its-Juice/PennyPilot">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Its-Juice&repo=PennyPilot&theme=nightowl&hide_border=true" alt="PennyPilot" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Its-Juice&repo=PennyPilot&theme=tokyonight&bg_color=1a1b27&hide_border=true&icon_color=7aa2f7&title_color=7aa2f7" alt="PennyPilot" />
       </a>
     </td>
-    <td align="center" width="33%">
+    <td width="50%" align="center">
       <a href="https://github.com/Its-Juice/backplane-website">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Its-Juice&repo=backplane-website&theme=nightowl&hide_border=true" alt="Backplane" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Its-Juice&repo=backplane-website&theme=tokyonight&bg_color=1a1b27&hide_border=true&icon_color=bb9af7&title_color=bb9af7" alt="Backplane" />
       </a>
     </td>
-    <td align="center" width="33%">
+  </tr>
+  <tr>
+    <td width="50%" align="center">
       <a href="https://github.com/gkapelakos/Autopilot-Linux-Script">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=gkapelakos&repo=Autopilot-Linux-Script&theme=nightowl&hide_border=true" alt="Autopilot Linux Script" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=gkapelakos&repo=Autopilot-Linux-Script&theme=tokyonight&bg_color=1a1b27&hide_border=true&icon_color=7dcfff&title_color=7dcfff" alt="Autopilot Script" />
       </a>
+    </td>
+    <td width="50%" align="center">
+      <!-- Placeholder for future superstar project -->
     </td>
   </tr>
 </table>
 
 <br/>
 
-## 🎸 Interests & Hobbies
-
-> 🎵 "Music is the wine that fills the cup of silence."
-
-- 🎼 **Music**: Fingerstyle guitar enthusiast.
-- 🎮 **Gaming**: Competitive and casual.
-- 🐧 **Open Source**: Contributing to the ecosystem (Inspired by [Linux](https://github.com/torvalds/linux)).
+<div align="center"> 
+  <i>"Simplicity is the soul of efficiency."</i>
+</div>
