@@ -4,8 +4,8 @@
   <h3>Future Software Engineer | Open Source Contributor | Minimalist</h3>
 
   <p>
-    <a href="https://github.com/Its-Juice">
-      <img src="https://komarev.com/ghpvc/?username=Its-Juice&style=for-the-badge&color=212121&label=VIEWS" alt="Profile Views" />
+    <a href="https://github.com/gkapelakos">
+      <img src="https://komarev.com/ghpvc/?username=gkapelakos&style=for-the-badge&color=212121&label=VIEWS" alt="Profile Views" />
     </a>
   </p>
 
@@ -17,24 +17,24 @@
 
 <div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Its-Juice&theme=git_dark&margin-w=15&margin-h=15&no-bg=true&column=7" alt="Its-Juice Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=gkapelakos&theme=git_dark&margin-w=15&margin-h=15&no-bg=true&column=7" alt="gkapelakos Trophies" />
   </a>
 </div>
 
-### � Coding Activity
+### ⚡ Coding Activity
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Its-Juice&theme=tokyo-night&bg_color=1a1b27&hide_border=true&area=true" alt="Its-Juice Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gkapelakos&theme=tokyo-night&bg_color=1a1b27&hide_border=true&area=true" alt="gkapelakos Activity Graph" />
 </div>
 
 <br/>
 
 <div align="center">
-  <a href="https://github.com/Its-Juice">
-    <img src="https://github-readme-stats.vercel.app/api?username=Its-Juice&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=1a1b27" height="180" alt="GitHub Stats" />
+  <a href="https://github.com/gkapelakos">
+    <img src="https://github-readme-stats.vercel.app/api?username=gkapelakos&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=1a1b27" height="180" alt="GitHub Stats" />
   </a>
-  <a href="https://github.com/Its-Juice">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Its-Juice&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&hide=html,css" height="180" alt="Top Languages" />
+  <a href="https://github.com/gkapelakos">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gkapelakos&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&hide=html,css" height="180" alt="Top Languages" />
   </a>
 </div>
 
@@ -53,20 +53,20 @@
 <table align="center" border="0" cellpadding="10" cellspacing="0">
   <tr>
     <td width="50%" align="center">
-      <a href="https://github.com/Its-Juice/PennyPilot">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Its-Juice&repo=PennyPilot&theme=tokyonight&bg_color=1a1b27&hide_border=true&icon_color=7aa2f7&title_color=7aa2f7" alt="PennyPilot" />
+      <a href="https://github.com/gkapelakos/PennyPilot">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=gkapelakos&repo=PennyPilot&theme=tokyonight&bg_color=1a1b27&hide_border=true&icon_color=7aa2f7&title_color=7aa2f7" alt="PennyPilot" />
       </a>
     </td>
     <td width="50%" align="center">
-      <a href="https://github.com/Its-Juice/backplane-website">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Its-Juice&repo=backplane-website&theme=tokyonight&bg_color=1a1b27&hide_border=true&icon_color=bb9af7&title_color=bb9af7" alt="Backplane" />
+      <a href="https://github.com/gkapelakos/backplane-website">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=gkapelakos&repo=backplane-website&theme=tokyonight&bg_color=1a1b27&hide_border=true&icon_color=bb9af7&title_color=bb9af7" alt="backplane-website" />
       </a>
     </td>
   </tr>
   <tr>
     <td width="50%" align="center">
       <a href="https://github.com/gkapelakos/Autopilot-Linux-Script">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=gkapelakos&repo=Autopilot-Linux-Script&theme=tokyonight&bg_color=1a1b27&hide_border=true&icon_color=7dcfff&title_color=7dcfff" alt="Autopilot Script" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=gkapelakos&repo=Autopilot-Linux-Script&theme=tokyonight&bg_color=1a1b27&hide_border=true&icon_color=7dcfff&title_color=7dcfff" alt="Autopilot-Linux-Script" />
       </a>
     </td>
     <td width="50%" align="center">
