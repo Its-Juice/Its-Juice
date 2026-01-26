@@ -22,6 +22,9 @@ My work focuses on creating robust, performant systems—from automated Linux en
 **Systems & Logic**
 <img src="https://skillicons.dev/icons?i=c,cpp,py,linux,bash&theme=dark" />
 
+**Environment & Tools**
+<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" />
+
 ---
 
 ### 🚀 Proof of Work
@@ -57,10 +60,6 @@ My work focuses on creating robust, performant systems—from automated Linux en
 </div>
 
 ---
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" />
-</div>
 
 <div align="center">
   <sub>"Simplicity is the ultimate sophistication." — Leonardo da Vinci</sub>
