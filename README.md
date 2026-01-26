@@ -1,82 +1,59 @@
 <div align="center">
 
-  <h1>👋 Hi, I'm Giannis!</h1>
-  <h3>Future Software Engineer | Open Source Contributor | Minimalist</h3>
+# G. Kapelakos
+**Building digital experiences with intent and precision.**
 
-  <p>
-    <a href="https://github.com/gkapelakos">
-      <img src="https://komarev.com/ghpvc/?username=gkapelakos&style=for-the-badge&color=212121&label=VIEWS" alt="Profile Views" />
-    </a>
-  </p>
+[![GitHub Status](https://img.shields.io/badge/Status-Building-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gkapelakos)
+[![Tech Stack](https://img.shields.io/badge/Stack-Flutter_%7C_Linux-000000?style=for-the-badge)](https://github.com/gkapelakos)
 
+---
+
+### ✦ Philosophy
+I believe in **software minimalism**: the art of maximizing impact while minimizing complexity. 
+My work focuses on creating robust, performant systems—from automated Linux environments to intuitive mobile interfaces.
+
+---
+
+### ⚡ Professional Arsenal
+
+**Product Development**
+<img src="https://skillicons.dev/icons?i=flutter,dart,html,css&theme=dark" />
+
+**System & Automation**
+<img src="https://skillicons.dev/icons?i=linux,bash,git,github&theme=dark" />
+
+**Environment**
+<img src="https://skillicons.dev/icons?i=vscode,md&theme=dark" />
+
+---
+
+### 🚀 Proof of Work
+
+| Project | Essence | Tech |
+| :--- | :--- | :--- |
+| **[PennyPilot](https://github.com/gkapelakos/PennyPilot)** | Intelligent personal finance management. | `Flutter` `Dart` |
+| **[Autopilot](https://github.com/gkapelakos/Autopilot-Linux-Script)** | Seamless Linux environment configuration engine. | `Bash` `Linux` |
+| **[Backplane](https://github.com/gkapelakos/backplane-website)** | High-performance digital presence. | `HTML` `CSS` |
+
+---
+
+### 📈 Kinetic Output
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=gkapelakos&show_icons=true&theme=transparent&hide_border=true&title_color=ffffff&text_color=9f9f9f&icon_color=ffffff&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gkapelakos&layout=compact&theme=transparent&hide_border=true&title_color=ffffff&text_color=9f9f9f&icon_color=ffffff&hide=html,css" width="45%" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gkapelakos&theme=react-dark&bg_color=0d1117&hide_border=true&area=true&color=ffffff" width="95%" />
 </div>
 
 ---
 
-### 🏆 Achievements
-
 <div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=gkapelakos&theme=git_dark&margin-w=15&margin-h=15&no-bg=true&column=7" alt="gkapelakos Trophies" />
-  </a>
+  <sub>"Simplicity is the ultimate sophistication." — Leonardo da Vinci</sub>
 </div>
 
-### ⚡ Coding Activity
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gkapelakos&theme=tokyo-night&bg_color=1a1b27&hide_border=true&area=true" alt="gkapelakos Activity Graph" />
-</div>
-
-<br/>
-
-<div align="center">
-  <a href="https://github.com/gkapelakos">
-    <img src="https://github-readme-stats.vercel.app/api?username=gkapelakos&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=1a1b27" height="180" alt="GitHub Stats" />
-  </a>
-  <a href="https://github.com/gkapelakos">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gkapelakos&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&hide=html,css" height="180" alt="Top Languages" />
-  </a>
-</div>
-
-<br/>
-
-### 🛠️ Tech Stack
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=bash,linux,dart,flutter,md,git,vscode,github&theme=dark" alt="Tech Stack" />
-</div>
-
-<br/>
-
-### 🚀 Featured Projects
-
-<table align="center" border="0" cellpadding="10" cellspacing="0">
-  <tr>
-    <td width="50%" align="center">
-      <a href="https://github.com/gkapelakos/PennyPilot">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=gkapelakos&repo=PennyPilot&theme=tokyonight&bg_color=1a1b27&hide_border=true&icon_color=7aa2f7&title_color=7aa2f7" alt="PennyPilot" />
-      </a>
-    </td>
-    <td width="50%" align="center">
-      <a href="https://github.com/gkapelakos/backplane-website">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=gkapelakos&repo=backplane-website&theme=tokyonight&bg_color=1a1b27&hide_border=true&icon_color=bb9af7&title_color=bb9af7" alt="backplane-website" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" align="center">
-      <a href="https://github.com/gkapelakos/Autopilot-Linux-Script">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=gkapelakos&repo=Autopilot-Linux-Script&theme=tokyonight&bg_color=1a1b27&hide_border=true&icon_color=7dcfff&title_color=7dcfff" alt="Autopilot-Linux-Script" />
-      </a>
-    </td>
-    <td width="50%" align="center">
-      <!-- Placeholder for future superstar project -->
-    </td>
-  </tr>
-</table>
-
-<br/>
-
-<div align="center"> 
-  <i>"Simplicity is the soul of efficiency."</i>
 </div>
